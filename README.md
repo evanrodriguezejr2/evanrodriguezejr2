@@ -5,9 +5,11 @@
   </sub>
 </h1>
 
-_Description of me_<br>
+_Introduction_<br>
 
 ### Software Development Projects
 
 - **Category/Technology/Skill Projects**
-  - [Project 1](github.com/evanrodriguezejr2)
+  - [Project Name](github.com/evanrodriguezejr2/Project-Name)
+ 
+### Certifications
