@@ -10,6 +10,6 @@ _Introduction_<br>
 ### Software Development Projects
 
 - **Category/Technology/Skill Projects**
-  - [Project Name](github.com/evanrodriguezejr2/Project-Name)
+  - [Project Name](https://github.com/evanrodriguezejr2/Project-Name)
  
 ### Certifications
