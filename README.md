@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1>
+  Hi, I'm Evan!<br>
+  <sub>
+    Aspiring IT Professional
+  </sub>
+</h1>
 
-<!--
-**evanrodriguezejr2/evanrodriguezejr2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_Description of me_<br>
 
-Here are some ideas to get you started:
+### Software Development Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Category/Technology/Skill Projects**
+  - [Project 1](github.com/evanrodriguezejr2)
