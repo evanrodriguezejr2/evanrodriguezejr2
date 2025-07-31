@@ -5,9 +5,9 @@
   </sub>
 </h1>
 
-_A progression of programming projects as I develop my programming abilities._
+_A progression of projects as I develop my technical abilities._
 
-### Software Development Projects
+### Development Projects
 
 - **Python**
   - [Calculator](https://github.com/evanrodriguezejr2/calculator)
