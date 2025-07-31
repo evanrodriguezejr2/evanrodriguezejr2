@@ -5,7 +5,7 @@
   </sub>
 </h1>
 
-_Progression of programming projects as I develop my programming abilities._
+_A progression of programming projects as I develop my programming abilities._
 
 ### Software Development Projects
 
