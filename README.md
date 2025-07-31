@@ -10,6 +10,6 @@ _Introduction_<br>
 ### Software Development Projects
 
 - **Category/Technology/Skill Projects**
-  - [Project Name](https://github.com/evanrodriguezejr2/Project-Template)
+  - [Calculator](https://github.com/evanrodriguezejr2/calculator)
+  - [Cannonball game](https://github.com/evanrodriguezejr2/cannonball_game)
  
-### Certifications
